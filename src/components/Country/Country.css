@@ -1,0 +1,13 @@
+/* #countryContainer{
+    color: red;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    width: 300px;
+    border: 2px solid black;
+} */
+
+.country{
+    color: blue;
+    border: none;
+    box-shadow: 5px 5px 10px grey;
+}
